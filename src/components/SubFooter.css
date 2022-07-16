@@ -1,0 +1,62 @@
+#img1{
+
+display: inline-block;
+    text-align: left;
+    width: 200px;
+}
+
+
+#img2{
+    position: absolute;
+    
+display: inline-block;
+    text-align:right;
+    width: 17rem;
+    
+}
+
+#subf{
+    padding-top: 50px;
+
+    
+}
+
+#spb{
+    font-size:xx-large;
+    font-weight: bolder;
+}
+
+#sps{
+    font-weight: 1200;
+}
+
+
+
+#subf1{
+    padding-top: 66px;
+
+    
+}
+
+
+#bnameb{
+         color: black;
+}
+
+#button11{
+    display: inline-block;
+    padding-left: -80px;
+}
+
+#button12{
+    display: inline-block;
+    
+}
+
+
+
+#subf2{
+    padding-top: 95px;
+
+    
+}

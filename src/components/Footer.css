@@ -1,0 +1,38 @@
+#bodyc{
+    background-color: rgb(255, 255, 255);
+    padding-top: 30px;
+}
+
+#imgf1{
+    background-color: rgb(215, 159, 159);
+}
+
+#footp{
+    display: inline-block;
+    font-size: smaller;
+    font-weight:450;
+}
+
+#arro1{
+    color: red;
+    font-size: larger;
+}
+
+#info1{
+    display: inline-block;
+    font-size: larger;
+    font-weight: 650;
+   
+}
+
+
+#imglen{
+
+    width: 100px;
+    height: 70px;
+}
+
+th,td{
+    padding: 5px;
+}
+    

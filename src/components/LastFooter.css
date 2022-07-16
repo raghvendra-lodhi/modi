@@ -1,0 +1,14 @@
+#lastdiv{
+    background-color: rgb(240, 236, 230);
+margin-top: 20px;
+padding: 10px;
+}
+
+#lascon{
+    display: inline-block;
+    text-align: center;
+}
+
+#fcolor{
+    color: red;
+}

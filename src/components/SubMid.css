@@ -1,0 +1,37 @@
+#col2{
+    font-size: 4rem;
+    font-family: Brush Script MT;
+    font-weight: lighter;
+    color:rgb(141, 183, 141);
+}
+
+#sub1{
+    margin-right: ;
+}
+
+#hrline{
+    display:inline;
+    position: relative;
+    display:inline-block;
+    width:60px;
+    height: 2.5px;
+    color:darkgreen;
+    
+    
+}
+
+#hrline2{
+    display: block;
+    margin-top: -30px;
+}
+
+
+
+p{
+    font-size: larger;
+    font-weight: bold;
+}
+
+#submidm{
+    margin-top: 90px;
+}

@@ -1,0 +1,6 @@
+#homeimg{
+            background-image: url('../img/banner.jpg'), url('../img/banner.jpg');
+        background-position: right bottom, left top;
+        background-repeat: no-repeat, repeat;
+        clip-path: polygon(30% 0%, 70% 0%, 100% 0%, 100% 70%, 100% 70%, 100% 70.1%, 0% 95%, 0% 0%);
+      }
